@@ -1,2 +1,9 @@
 # Hue-Hustle
-WebGL Build of Prototype created for USC's CSCI 526 Advanced Mobile Games class
+
+Hue Hustle is a prototype to test the playability and engagement of an interesting game mechanic - Change the entire level using colors.
+
+Team Members:
+Athang Gupte
+Somyadeep 
+Qais Khan
+
